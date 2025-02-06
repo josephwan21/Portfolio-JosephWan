@@ -279,6 +279,82 @@ section {
     border-radius: 10px;
 }
 
+/* Social Icons */
+.nav-right ul li a i {
+    font-size: 1.65rem; /* Adjust the size of the icons (default is 1.25rem) */
+    margin-right: 5px; /* Space between icon and text */
+}
+
+/* Education and Hobbies Sections */
+#education, #hobbies {
+    background-color: #ffffff;
+    padding: 40px 20px;
+    margin: 40px 0;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+#education ul, #hobbies ul {
+    list-style: none;
+    margin-right: 40px;
+}
+
+/* About Me Section */
+#about-me {
+    background-color: #ffffff;
+    padding: 40px 20px;
+    margin: 40px 0;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+#about-me h1 {
+    font-size: 2.5rem;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+#about-me p {
+    font-size: 1.2rem;
+    color: #555;
+    line-height: 1.6;
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: justify;
+    padding: 10px;
+}
+
+#about-me p br {
+    margin-bottom: 20px;
+}
+
+/* Adding a subtle border and background color to the section for separation */
+#about-me {
+    border-left: 5px solid #7ec4ec;
+    background-color: #f9fbff;
+}
+
+.footer-social-icons ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    padding: 0;
+}
+
+.footer-social-icons ul li {
+    margin: 0 15px;
+}
+.footer-social-icons ul li a i {
+    font-size: 1.8rem; /* Adjust icon size */
+    color: black; /* Color of the icons */
+    transition: transform 0.3s ease;
+}
+
+.footer-social-icons ul li a:hover i {
+    color: #0077b5; /* LinkedIn blue color on hover */
+    transform: scale(1.1); /* Slightly enlarge icon on hover */
+}
+
 
 
 /* Footer */
