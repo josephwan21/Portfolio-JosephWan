@@ -168,6 +168,7 @@ section {
 
 .project-heading {
     font-size: 2rem;
+    margin-top: -3px;
 }
 
 
@@ -180,7 +181,7 @@ section {
 
 .skills-heading {
     font-size: 2rem;
-    margin-bottom: 30px;
+    margin-top: -10px;
 }
 
 .skills-container {
@@ -423,6 +424,10 @@ section {
     font-size: 2rem;
 }
 
+.experience-heading{
+    font-size: 2rem;
+    margin-top: 35px;
+}
 
 /* Footer */
 footer {
