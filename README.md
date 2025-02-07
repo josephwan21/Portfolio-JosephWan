@@ -5,7 +5,7 @@
 Welcome to my personal portfolio website! This website showcases my skills, experience, and projects in the field of **Information Technology, Cybersecurity, and Cloud Computing**.  
 
 ## 🌐 **Live Preview**  
-🔗 **[View Portfolio](https://josephwan21.github.io/)**  
+🔗 **[View Portfolio](https://josephwan21.github.io/Portfolio-JosephWan/)**  
 
 ## 📂 **Project Structure**  
 
