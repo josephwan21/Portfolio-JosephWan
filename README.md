@@ -1,5 +1,3 @@
-# Portfolio-JosephWan
-
 # **Joseph Wan's Portfolio** 🚀  
 
 Welcome to my personal portfolio website! This website showcases my skills, experience, and projects in the field of **Information Technology, Cybersecurity, and Cloud Computing**.  
@@ -9,11 +7,14 @@ Welcome to my personal portfolio website! This website showcases my skills, expe
 
 ## 📂 **Project Structure**  
 
-/portfolio-repo │── assets/ # Resume, images, and other assets
+```
+/portfolio-repo │── assets/ # Resume and other assets
+                |── images/ # Images
 │── html/ # HTML pages (About, Projects, Skills, Experience)
 │── styles/ # CSS stylesheets
 │── index.html # Main homepage
 │── README.md # Project documentation
+```
 
 
 ## 🛠️ **Tech Stack**  
